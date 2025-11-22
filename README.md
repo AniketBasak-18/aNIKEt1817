@@ -1,1 +1,1 @@
-# aNIKEt1817
+# ANIKE18/cryptography and security implementation assignments
